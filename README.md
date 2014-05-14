@@ -1,2 +1,2 @@
-applikasi-pejualan-tb
+aplikasi-penjualan-tb
 =====================
